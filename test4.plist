@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/jianhui-sha/iosgithub/blob/main/maptong.ipa?raw=true</string>
+                        <string>https://maptong-1308733884.cos.ap-nanjing.myqcloud.com/maptong.ipa?q-sign-algorithm=sha1&q-ak=AKIDVqqTvUKWsQxmTBY8z0j8CAWdcpJmoHnhfnaCudPHj_gwMvCBr4s5n_etjPWMUXX-&q-sign-time=1639129490;1639133090&q-key-time=1639129490;1639133090&q-header-list=&q-url-param-list=&q-signature=7374169db310cab5afd0fc2fc5f2e310c3a7ff02&x-cos-security-token=ziuiz8E0jW2chI35RhnH6myFBfLOLsnafe294bdf921acd336d52d4bcdeefe313bSIdwTLEmhUx0eOEs9V5e4qYqUAbBvCw3fUNZ1OkTVpLaiU0VtW_tW1-p5GYIAgSJAv5g9tl6t4U0JGKCQeSUikTHyQKC86R7cmqiV34x9RcBbcmbaOgDOIGWdjYDrA6HFoyRHLV7bs0ENre1umpTQVYGm_paSXw3lZzw9PqmvDhvTEtvu_ChHuRI2MPoqgp&response-content-type=application%2Foctet-stream&response-content-disposition=attachment</string>
                     </dict>
                     <dict>
                         <key>kind</key>
